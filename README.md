@@ -48,6 +48,8 @@ The code and datasets need satisfy the following structures:
 
 Since the KLSG dataset does not have a unified preprocessing standard, it needs to be processed by itself. **The script has been included in the dataloader**.
 
+The divided KLSG dataset can be downloaded [here](https://pan.baidu.com/s/1-X9Ya7i9V05bmgzSR6MCtg?pwd=2vg6).
+
 ## Training
 
 We have prepared the training results of FLT on both datasets, which can be downloaded [Here](https://github.com/WanghtCC/FLT/releases/tag/model_weight).
