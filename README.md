@@ -1,4 +1,4 @@
-# [FLT]()
+# FLT
 
 [An Attempt at Underwater Image Lightweight Super-Resolution Using Transformer and Frequency-Domain Learning](https://www.baidu.com)
 
