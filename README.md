@@ -50,6 +50,8 @@ Since the KLSG dataset does not have a unified preprocessing standard, it needs 
 
 ## Training
 
+We have prepared the training results of FLT on both datasets, which can be downloaded [Here](https://github.com/WanghtCC/FLT/releases/tag/model_weight).
+
 - Use the below command to train on UFO120:
 
 ```
