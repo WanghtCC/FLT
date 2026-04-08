@@ -1,6 +1,6 @@
 # FLT
 
-[An Attempt at Underwater Image Lightweight Super-Resolution Using Transformer and Frequency-Domain Learning](https://www.baidu.com)
+[An Attempt at Underwater Image Lightweight Super-Resolution Using Transformer and Frequency-Domain Learning](https://github.com/WanghtCC/FLT?tab=readme-ov-file)
 
 - Apr. 08, 2026: This paper is being reviewed on the *Frontiers in Marine Science*.
 
@@ -10,7 +10,7 @@
 
 ###### Lightweight image Super-resolution (SR) is a computer vision technology that aims to recover high-quality image details from low-resolution images with limited computing costs. While Transformer-based SR models have made remarkable advancements, their balanced edge-end deployment and reconstruction quality have been notably hindered by complex underwater imaging conditions and the scarcity of publicly available high-quality datasets. To address these issues, we propose a Frequency-domain Learning Transformer (FLT) for underwater images SR, which leverages complementary information from spatial and frequency domains to enable fine-grained detail reconstruction while reducing storage and computing costs. Specifically, FLT comprises Residual Dual-domain Joint Learning Transformer Blocks (RDTBs). Each RDTB captures low-frequency structures via the spatial-domain branch and high-frequency textures via the frequency-domain branch, thereby enhancing fine-grained details of lightweight SR. Furthermore, a Multi-scale FeedForward Neural (Ms-FFN) network is incorporated into each RDTB as an auxiliary detail enhancement module, which improves the visual fidelity of reconstructed images through multi-scale feature aggregation. We perform visual and quantitative comparisons, ablation studies, and model analyses against state-of-the-art methods on both the public UFO-120 dataset and the KLSG-II dataset. Experimental results demonstrate that FLT achieves performance comparable to or exceeding state-of-the-art SR models, while having significantly reduced by about 50% to 60% parameters and drastically reduced computational cost. This unique balance between reconstruction quality and efficiency underscores FLT’s superiority for lightweight underwater SR, providing a promising solution for resource-constrained underwater imaging applications.
 
-![im1](./FLT_dia.pdf)
+![FLT_dia](./FLT_dia.png)
 
 ## Contents
 
