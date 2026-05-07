@@ -1,6 +1,6 @@
 # FLT
 
-[An Attempt at Underwater Image Lightweight Super-Resolution Using Transformer and Frequency-Domain Learning](https://github.com/WanghtCC/FLT?tab=readme-ov-file)
+[An Attempt at Underwater Image Lightweight Super-Resolution Using Transformer and Frequency-Domain Learning](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1762772/full)
 
 - May. 06, 2026: The article has been received and published.
 - Dec. 08, 2025: This paper is being reviewed on the *Frontiers in Marine Science*.
