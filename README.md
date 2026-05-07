@@ -2,7 +2,8 @@
 
 [An Attempt at Underwater Image Lightweight Super-Resolution Using Transformer and Frequency-Domain Learning](https://github.com/WanghtCC/FLT?tab=readme-ov-file)
 
-- Apr. 08, 2026: This paper is being reviewed on the *Frontiers in Marine Science*.
+- May. 06, 2026: The article has been received and published.
+- Dec. 08, 2025: This paper is being reviewed on the *Frontiers in Marine Science*.
 
 ---
 
@@ -81,7 +82,18 @@ If you have any queries or feedback, please contact us @(wang.h.t@outlook.com).
 
 ## Citation
 
-It will be opened upon acceptance.
+If FLT helps your research or work, please cite FLT.<br>
+```
+@ARTICLE{flt,   
+ AUTHOR={Wu, Haoran  and Wang, Haitao  and Zhang, Yifan  and Faheem, Muhammad Yasir  and Wang, Xinghua },          
+ TITLE={An attempt at underwater image lightweight super-resolution using transformer and frequency-domain learning},         
+ JOURNAL={Frontiers in Marine Science},         
+ VOLUME={Volume 13 - 2026}, 
+ YEAR={2026}, 
+ DOI={10.3389/fmars.2026.1762772}, 
+ ISSN={2296-7745},
+}
+```
 
 ## License and Acknowledgement
 
